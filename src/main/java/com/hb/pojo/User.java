@@ -17,6 +17,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+    //haha
     @TableId(type = IdType.INPUT)
     private Long id;
     private String name;
